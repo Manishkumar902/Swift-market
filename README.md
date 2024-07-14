@@ -70,4 +70,4 @@ Visualizing total sales by product category using a bar chart:
 * Goa and Bihar generated the highest revenue.
 
 ## Contact Information
-For any inquiries or collaborations, feel free to reach out to Karmiyaldeepak010@gmail.com.
+For any inquiries or collaborations, feel free to reach out to manishsogarwal2002@gmail.com.
